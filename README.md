@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/byounghoon-kang-7b048a239/" target="_blank">
+  <img src="https://img.shields.io/badge/-hoonkang-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
 <!--
 **hoon610/hoon610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
