@@ -1,7 +1,7 @@
 ### Hello there traveller!👋
 
 ---
-[![LinkedIn Badge](https://img.shields.io/badge/-hoonkang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoon-kang-7b048a239/)](https://www.linkedin.com/in/hoon-kang-7b048a239/)
+[![LinkedIn Badge](https://img.shields.io/badge/-hoonkang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hoon-kang-az/)](www.linkedin.com/in/hoon-kang-az)
 [![Gmail Badge](https://img.shields.io/badge/-bhoonkang@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 [![Substack Badge](https://img.shields.io/badge/-Substack-FF4500?style=flat-square&logo=substack&logoColor=white)](https://hoonkang.substack.com/)
 
