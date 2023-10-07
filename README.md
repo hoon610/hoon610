@@ -18,7 +18,7 @@ Check out my [website](https://hoonkang.net) where I have old projects as well a
 * International Union for the Study of Social Insects (IUSSI).
 * UML Graduate Student Union - Biological Sciences Department Coordinator.
 * UML Graduate Program Commitee - Student Representative
-* Society of Asian Scientists and Engineers - Treasurer
+* Society of Asian Scientists and Engineers
 ## ⚡ Technologies
 Talk to me about:
 - Machine learning! I have been learning and applying **TensorFlow** in my academic research
