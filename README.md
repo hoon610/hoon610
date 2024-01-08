@@ -7,7 +7,7 @@
 
 My name is Hoon 😃. I was born in South Korea, and raised in Arizona 🌵🌵
 
-I am currently living in the Boston area, finishing up my Masters Degree. I was originally three years into doing a PhD in the behavioral ecology of ants, but my advising professor got a job offer in Florida. Due to personal circumstances I was not able to follow her and so I am graduating with a Masters instead!
+I am currently living in the Boston area, finishing up my Masters Degree.
 
 I love solving problems and have been coding throughout my undergrad and PhD degree work to manage, sort, and analyze large datasets. I am currently looking for employment in software engineering or data science. 
 
