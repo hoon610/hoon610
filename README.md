@@ -9,7 +9,7 @@ My name is Hoon 😃. I was born in South Korea, and raised in Arizona 🌵🌵
 
 I am currently living in the Boston area, finishing up my Masters Degree.
 
-I love solving problems and have been coding throughout my undergrad and PhD degree work to manage, sort, and analyze large datasets. I am currently looking for employment in software engineering or data science. 
+I love solving problems and have been coding throughout my undergrad work to manage, sort, and analyze large datasets. I am currently looking for employment in software engineering or data science. 
 
 Check out my [website](https://hoonkang.net) where I have old projects as well as some new ones I have been doing in order to transition my coding skills from academia into the workforce!
 
