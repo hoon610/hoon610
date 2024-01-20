@@ -15,7 +15,6 @@ Check out my [website](https://hoonkang.net) where I have old projects as well a
 ## 👯 Communities
 * Entomological Society of America (ESA).
 * International Union for the Study of Social Insects (IUSSI).
-* UML Graduate Student Union - Biological Sciences Department Coordinator.
 * UML Graduate Program Commitee - Student Representative
 * Society of Asian Scientists and Engineers
 ## ⚡ Technologies
