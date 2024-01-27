@@ -22,7 +22,6 @@ Talk to me about:
 - Machine learning! I have been learning and applying **TensorFlow** in my academic research
 - Backend development using **Node.js, MongoDB**.
 - Mobile application development using **React** (Still learning!).
-- Solving Data structure and algorithm questions in **Python and JavaScript**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [Hoon's Substack](https://hoonkang.substack.com/).
