@@ -10,7 +10,7 @@ I love solving problems and have been coding for many years.
 
 Check out my [website](https://hoonkang.net) where I showcase old projects as well as some new ones!
 
-## 👯 Communities
+## Communities
 * Entomological Society of America (ESA).
 * International Union for the Study of Social Insects (IUSSI).
 * UML Graduate Program Commitee - Student Representative
